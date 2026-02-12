@@ -40,7 +40,7 @@ export default function Home() {
 
         <div className="text-center max-w-[700px] relative z-[2]">
           <div className="inline-flex items-center gap-3 text-[0.66rem] font-semibold tracking-[0.15em] text-text-light mb-7 animate-fade-up lowercase" style={{ animationDelay: '0.8s' }}>
-            <span className="w-[18px] h-px bg-dark/[0.12]" />est. 2026 — for the relentless<span className="w-[18px] h-px bg-dark/[0.12]" />
+            <span className="w-[18px] h-px bg-dark/[0.12]" />est. 2023 — for the relentless<span className="w-[18px] h-px bg-dark/[0.12]" />
           </div>
           <h1 className="font-display text-[clamp(3rem,10vw,6.5rem)] font-extrabold tracking-[-0.05em] leading-[0.88] text-dark mb-5 animate-fade-up lowercase" style={{ animationDelay: '1s', fontStretch: 'normal' }}>
             fknlej<span className="text-accent">.</span>
