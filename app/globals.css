@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  text-transform: lowercase;
+}
+
+/* Prevent Syne font from stretching — the 800 weight has ultra-wide glyphs by design */
+.font-display,
+h1, h2, h3, blockquote {
+  font-weight: 700 !important;
+  font-stretch: 100% !important;
+  font-synthesis: none;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  letter-spacing: -0.03em;
+}
+
+::selection {
+  background: #c4623a;
+  color: #fff;
+}
+
+::-webkit-scrollbar {
+  width: 4px;
+}
+
+::-webkit-scrollbar-track {
+  background: #faf9f7;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #8a8781;
+  border-radius: 2px;
+}
