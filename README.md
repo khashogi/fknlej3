@@ -1,6 +1,6 @@
-# fknlej — for the fucking legends
+# fknlej
 
-clothing brand website — est. 2026
+clothing brand website — est. 2023
 
 ## quick start
 
