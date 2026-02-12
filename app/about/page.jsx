@@ -57,7 +57,7 @@ export default function AboutPage() {
         <RevealOnScroll className="max-w-[680px] relative z-[1]">
           <div className="text-[0.56rem] font-semibold tracking-[0.2em] text-accent mb-2 lowercase">what it means</div>
           <blockquote className="font-display text-[clamp(1.2rem,2.8vw,2rem)] font-bold tracking-tight leading-snug text-dark mb-4 lowercase">
-            this is for the grit that goes unrecorded. this is for the steer when the world expects you to stall. this is for the resilience of the underdog and the unwavering spirit of the renegade. this is not for the applause you receive, but the refusal to quit when no one is watching. <span className="text-accent">be a fknleg.</span>
+            this is for the grit that goes unrecorded. this is for the resilience of the underdog. this is not for the applause you receive, but the refusal to quit when no one is watching. <span className="text-accent">be a fknlej.</span>
           </blockquote>
           <div className="flex items-center gap-2 text-[0.7rem] text-text-light lowercase">
             <span className="w-[18px] h-px bg-accent" />the definition
