@@ -5,7 +5,7 @@ import { CartProvider } from '@/components/CartProvider';
 import CartDrawer from '@/components/CartDrawer';
 
 export const metadata = {
-  title: 'fknlej — for the fucking legends',
+  title: 'be a fknlej',
   description: 'clothing for the relentless. grit. determination. absolute achievement.',
 };
 
