@@ -93,7 +93,7 @@ export default function Home() {
         <RevealOnScroll className="max-w-[680px] relative z-[1]">
           <div className="text-[0.56rem] font-semibold tracking-[0.2em] text-accent mb-2 lowercase">the ethos</div>
           <blockquote className="font-display text-[clamp(1.2rem,2.8vw,2rem)] font-bold tracking-tight leading-snug text-dark mb-4 lowercase">
-            a fknlej isn&apos;t someone who never fell. it&apos;s someone who <span className="text-accent">got back up every single time</span> — and made the world watch.
+            it&apos;s not the absence of failure, but the refusal to let it be the final word. move with a gravity that <span className="text-accent"> makes the world take note</span>.
           </blockquote>
           <div className="flex items-center gap-2 text-[0.7rem] text-text-light lowercase">
             <span className="w-[18px] h-px bg-accent" />the fknlej manifesto
