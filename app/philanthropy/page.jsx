@@ -12,7 +12,7 @@ export default function PhilanthropyPage() {
           <div className="text-[0.56rem] font-semibold tracking-[0.2em] text-accent mb-2 lowercase">our pillars</div>
           <h2 className="font-display text-[clamp(1.7rem,3.8vw,2.4rem)] font-extrabold tracking-tight leading-tight text-dark mb-2 lowercase">where we show up</h2>
           <p className="text-[0.88rem] text-text-light max-w-[420px] leading-relaxed mb-8 lowercase">
-            every purchase fuels these initiatives. because being a legend means building more legends.
+            every purchase fuels these initiatives. be a fknlej.
           </p>
         </RevealOnScroll>
 
