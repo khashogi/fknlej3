@@ -36,7 +36,7 @@ export default function AboutPage() {
             </p>
             <div className="flex gap-6 pt-5 border-t border-dark/[0.08] flex-wrap">
               <div>
-                <div className="font-display text-[1.3rem] font-extrabold text-accent">2026</div>
+                <div className="font-display text-[1.3rem] font-extrabold text-accent">2023</div>
                 <div className="text-[0.58rem] font-medium tracking-[0.1em] text-text-light lowercase">established</div>
               </div>
               <div>
@@ -57,7 +57,7 @@ export default function AboutPage() {
         <RevealOnScroll className="max-w-[680px] relative z-[1]">
           <div className="text-[0.56rem] font-semibold tracking-[0.2em] text-accent mb-2 lowercase">what it means</div>
           <blockquote className="font-display text-[clamp(1.2rem,2.8vw,2rem)] font-bold tracking-tight leading-snug text-dark mb-4 lowercase">
-            think the cancer survivor. think the single mom with a million followers. think the overweight guy who became a model. <span className="text-accent">each one is a fucking legend.</span>
+            think the cancer survivor. think the single mom with a million followers. think the overweight guy who became a model. <span className="text-accent">each one is a fkn leg.</span>
           </blockquote>
           <div className="flex items-center gap-2 text-[0.7rem] text-text-light lowercase">
             <span className="w-[18px] h-px bg-accent" />the definition
