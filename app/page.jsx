@@ -46,7 +46,7 @@ export default function Home() {
             fknlej<span className="text-accent">.</span>
           </h1>
           <p className="text-[clamp(0.88rem,1.5vw,1rem)] text-text-light max-w-[420px] mx-auto mb-8 leading-relaxed animate-fade-up lowercase" style={{ animationDelay: '1.2s' }}>
-            clothing for those who show up when nobody&apos;s watching. for the ones who grind, build, survive, and become fucking legends.
+            clothing for those who show up when nobody&apos;s watching. for the ones who grind, build, survive, and become unbreakable.
           </p>
           <div className="flex gap-3 justify-center flex-wrap animate-fade-up" style={{ animationDelay: '1.4s' }}>
             <Link href="/catalog" className="inline-flex items-center gap-2 text-[0.76rem] font-semibold tracking-wide py-3 px-7 bg-dark text-white hover:bg-accent hover:-translate-y-0.5 hover:shadow-[0_8px_25px_rgba(196,98,58,0.15)] transition-all lowercase">
