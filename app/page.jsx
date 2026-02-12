@@ -151,7 +151,7 @@ export default function Home() {
         <RevealOnScroll>
           <div className="text-[0.56rem] font-semibold tracking-[0.2em] text-accent mb-2 lowercase">giving back</div>
           <h2 className="font-display text-[clamp(1.7rem,3.8vw,2.4rem)] font-extrabold tracking-tight leading-tight text-dark mb-2 lowercase">legends lift others</h2>
-          <p className="text-[0.88rem] text-text-light max-w-[420px] leading-relaxed mb-8 lowercase">every purchase fuels these initiatives. because being a legend means building more legends.</p>
+          <p className="text-[0.88rem] text-text-light max-w-[420px] leading-relaxed mb-8 lowercase">every purchase fuels these initiatives. be a fknlej.</p>
         </RevealOnScroll>
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
           {philanthropy.map((p, i) => (
