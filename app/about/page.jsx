@@ -26,13 +26,13 @@ export default function AboutPage() {
               born from a phrase.<br />built for a movement.
             </h3>
             <p className="text-[0.86rem] text-text-light leading-relaxed mb-3 lowercase">
-              It started as a shorthand between friends—a raw, unfiltered recognition of someone doing the impossible. it became a belief system. a standard. a way of life.
+              it started as a shorthand—a raw, unfiltered recognition of someone doing the impossible. it became a belief system. a standard. a way of life.
             </p>
             <p className="text-[0.86rem] text-text-light leading-relaxed mb-3 lowercase">
-              We don’t design for the podium-dwellers or the naturally gifted. We design for the quiet grinders, the late-night visionaries, and those who have turned their no into a not yet. 
+              We don’t design for the podium-dwellers. We design for the quiet grinders, the late-night visionaries, for those who turned their no into a not yet. 
             </p>
             <p className="text-[0.86rem] text-text-light leading-relaxed mb-5 lowercase">
-              fknlej isn&apos;t just a label; it&apos;s a lifestyle for the relentless. it&apos;s a recognition. when you&apos;re s fknlej, you&apos;re telling the world: i earned this.
+              fknlej isn&apos;t just a label; it&apos;s a lifestyle for the relentless. it&apos;s a recognition. it&apos;s you telling the world: i earned this.
             </p>
             <div className="flex gap-6 pt-5 border-t border-dark/[0.08] flex-wrap">
               <div>
