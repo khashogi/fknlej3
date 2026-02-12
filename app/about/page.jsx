@@ -26,13 +26,13 @@ export default function AboutPage() {
               born from a phrase.<br />built for a movement.
             </h3>
             <p className="text-[0.86rem] text-text-light leading-relaxed mb-3 lowercase">
-              fknlej started as shorthand between friends — a way to call out someone doing something extraordinary. it became a belief system. a standard. a way of life.
+              It started as a shorthand between friends—a raw, unfiltered recognition of someone doing the impossible. it became a belief system. a standard. a way of life.
             </p>
             <p className="text-[0.86rem] text-text-light leading-relaxed mb-3 lowercase">
-              we make clothing for the people who don&apos;t quit. the single mom running a business at midnight. the guy who lost 100 lbs and kept going. the dropout who built a company.
+              We don’t design for the podium-dwellers or the naturally gifted. We design for the quiet grinders, the late-night visionaries, and those who have turned their no into a not yet. 
             </p>
             <p className="text-[0.86rem] text-text-light leading-relaxed mb-5 lowercase">
-              this isn&apos;t just a brand. it&apos;s a recognition. when you wear fknlej, you&apos;re telling the world: i earned this.
+              fknlej isn&apos;t just a label; it&apos;s a lifestyle for the relentless. it&apos;s a recognition. when you&apos;re s fknlej, you&apos;re telling the world: i earned this.
             </p>
             <div className="flex gap-6 pt-5 border-t border-dark/[0.08] flex-wrap">
               <div>
